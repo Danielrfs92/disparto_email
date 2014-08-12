@@ -1,0 +1,16 @@
+﻿.footer{
+	text-align: center;
+	font-size: 80%;
+}
+
+#admin {
+	float: right;
+	margin-top: 5px;
+	margin-right: 5px;
+}
+
+.menu ul li{
+	display: inline-block;
+	list-style-type: none;
+	margin-left: 10px;
+}
